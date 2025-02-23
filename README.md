@@ -1,4 +1,5 @@
 # Sales-and-Customer-Analysis Dashboard Project
+[Dashboard Link](https://public.tableau.com/views/SalesCustomerDashboardsDynamic_17402554836450/CustomerDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ## Overview
 This project presents an interactive dashboard analyzing sales performance and customer behavior to drive data-driven decision-making. Leveraging historical sales data, the dashboard uncovers trends, identifies high-performing product categories, evaluates customer profitability, and highlights growth opportunities.
 ## Tools Used
